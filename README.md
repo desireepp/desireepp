@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics and communications
 - 🌱 I’m currently learning python and advanced SQL
 - 💞️ I’m looking to collaborate on natural language processing
-- 📫 How to reach me this place if you can ❌⭕❌⭕ Gossip girl 😂
+- 📫 How to reach me: Reach out to me at this place if you can ❌⭕❌⭕ Gossip Girl😂
 
 <!---
 desireepp/desireepp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
